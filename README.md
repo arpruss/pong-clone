@@ -1,4 +1,15 @@
 # Pong Clone
 A pong clone written in Python with Pygame.
 
-![Image of Main Menu]("https://raw.githubusercontent.com/wildp/pong-clone/main/Screenshots/Main-menu.png")
+![Main Menu](/Screenshots/main-menu.png?raw=true "Main Menu")
+
+## Controls
+### Left Player
+* A to move paddle up
+* Z to move paddle down
+
+### Right Player
+* K to move paddle up
+* M to move paddle down
+
+![In Game](/Screenshots/in-game.png?raw=true "In Game")
