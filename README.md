@@ -2,7 +2,6 @@
 A pong clone written in Python with Pygame.
 
 
-
 ## Controls
 ### Left Player
 * A to move paddle up
@@ -16,3 +15,5 @@ A pong clone written in Python with Pygame.
 
 ![Main Menu](/Screenshots/main-menu.png?raw=true "Main Menu")
 ![In Game](/Screenshots/in-game.png?raw=true "In Game")
+
+[Instructions to get Pygame](https://www.pygame.org/wiki/GettingStarted "GettingStarted — pygame wiki").
