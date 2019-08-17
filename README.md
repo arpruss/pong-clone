@@ -1,3 +1,5 @@
+Note: This project has been relicensed and moved [here](https://github.com/wildp/trivial-stuff/blob/master/pong-clone)
+
 # Pong Clone
 A pong clone written in Python with Pygame.
 
